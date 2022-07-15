@@ -4,7 +4,7 @@ metadata:
   name: myapp-argo-application
   namespace: argocd
   annotations:
-    notifications.argoproj.io/subscribe.on-sync-succeeded.telegram: mfargocd
+    notifications.argoproj.io/subscribe.on-sync-succeeded.telegram: m...d
 spec:
   project: default
 
